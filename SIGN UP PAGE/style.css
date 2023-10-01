@@ -1,0 +1,122 @@
+{
+    margin: 0;
+    padding: 0;
+    color: black;
+    outline: none;
+}
+
+.main{
+    text-align: center;
+    box-shadow: 0 0 3px 0;
+    width: 300px;
+    margin: 8% auto 0;
+    padding: 20px;
+    border-radius: 20px;
+    border-width: 1px;
+    border-style: solid;
+    background-color: aliceblue;
+
+}
+
+.main h1{
+    color: rgb(0, 244, 163);
+    margin-bottom: 10px;
+
+}
+.name{
+    border-radius: 50px;
+    margin: 10px;
+    width: 80%;
+    padding: 10px;
+    border-width: 1px;
+    border-style: solid;
+    color: black;
+    border-color: black;
+
+}
+
+.link{
+    color: blueviolet;
+    margin: 10px;
+}
+
+.kanna{
+    width: 80%;
+    border-radius: 30px;
+    margin: 20px;
+    padding: 8px;
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.prasad{
+    width: 80%;
+    border-radius: 30px;
+    padding: 8px;
+    margin: 10px;
+    background-color: white;
+    cursor: pointer;
+
+}
+
+.prasad:hover{
+    /* z-index: -2; */
+    background-color: aqua;
+
+}
+body{
+    background-color: rgb(101, 177, 187);
+}
+
+
+
+
+
+
+
+
+.aim{
+    color: blue;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

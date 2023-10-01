@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    margin: 130px auto;
+    box-shadow: 0 0 3px rgba(218, 49, 49, 0.9);
+    width: 500px;
+    padding: 30px;
+}
+p{
+    margin: 10px;
+    margin-bottom: 20px;
+}
+input{
+    width: 400px;
+    padding: 14px;
+    border-radius: 30px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+
+
+}
+.for{
+    color: blue;
+    text-decoration: none;
+}
+.submit{
+    margin-top: 20px;
+    position: relative;
+    left: 150px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+.fo{
+    color: blue;
+    position: relative;
+    right: 150px;
+    text-decoration: none;
+    
+}
+.submit:hover{
+    background-color: black;
+}
